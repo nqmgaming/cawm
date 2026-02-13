@@ -942,11 +942,15 @@ function AppContent() {
                   padding: "0 8px",
                 }}
               >
-                Cảm xúc rối bời, hôm qua tự nhiên mình nghĩ mai
-                valentine sẽ ở cùng với ai đó, và nghĩ ra Who with me,
-                rồi nhớ có along with me, và ngạc nhiên chưa, Come along
-                with me? Cảm ơn bạn đã vẫn còn ở đây lắng nghe mình và
+                hôm qua tự nhiên mình nghĩ mai
+                Valentine, cơ mà mình không có ai để đi cùng, và nghĩ ra Who with me,
+                rồi nhớ ra câu along with me, và ngạc nhiên chưa, Come along
+                with me? Một bài hát trong Adventure Time, bộ phim hoạt hình mình yêu thích, lâu lâu nghe nó mình cứ thấy muốn khóc á.
+                "All of my collection, I share them all with you". Cảm ơn bạn đã vẫn còn ở đây lắng nghe mình và
                 chia sẻ câu chuyện của bạn.
+                <br />
+                <br />
+                49 2019 6D 20 6E 6F 74 20 73 75 72 65 20 68 6F 77 20 49 20 66 65 65 6C 2026 20 6D 61 79 62 65 20 49 20 6C 69 6B 65 20 79 6F 75 2E
               </p>
 
               <button
